@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 body{
-    background: orange;
+    background: radial-gradient(
+        50% 50% at 50% 50%,
+        rgb(227.26, 181.64, 19.88) 0%,
+        rgb(229.5, 124.79, 20.08) 70.43%,
+        rgb(233.63, 121.76, 18.5) 100%
+        );
     margin: 0;
     width: 100vw;
     height: 100vh;
